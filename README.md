@@ -50,6 +50,10 @@ Swap the debug boxes for your own hurtboxes, and run your hit detection against 
 
 The settings remote lets any player set their own walk speed and jump power. That is intended for the demo. Remove or validate it before using this in a game.
 
+## Credit
+
+If you use this in a game, please credit **cowrse** in the game's description or credits. It isn't required by the license, but it's appreciated.
+
 ## License
 
 [MIT](LICENSE) © 2026 Anthony Saade
